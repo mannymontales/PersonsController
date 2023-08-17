@@ -16,7 +16,6 @@ public interface PersonService {
     Person getPerson(int id);
     List<Person> getPersonList();
     Person updatePerson(Person p);
-    void DeletePerson(int id);
+    void deletePerson(int id);
 
-    boolean exists(Person p);
 }

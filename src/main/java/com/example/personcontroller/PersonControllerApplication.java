@@ -21,4 +21,9 @@ public class PersonControllerApplication {
 //        return registrationBean;
 //    }
 
+    /*
+    A bean is simply a Java object that is created, assembled, and managed by the Spring container.
+    It's an instance of a class that is instantiated and maintained by Spring.
+     */
+
 }
